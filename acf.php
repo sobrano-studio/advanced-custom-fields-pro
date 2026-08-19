@@ -12,7 +12,6 @@
  * Version:           6.6.2
  * Author:            WP Engine
  * Author URI:        https://wpengine.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields
- * Update URI:        https://www.advancedcustomfields.com/pro
  * Text Domain:       acf
  * Domain Path:       /lang
  * Requires PHP:      7.4
